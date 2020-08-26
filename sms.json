@@ -1,0 +1,24 @@
+{
+    "sid": "SMe62aaa7d0d224c70aa2855d7bc8ec6a1",
+    "date_created": "Wed, 26 Aug 2020 06:45:38 +0000",
+    "date_updated": "Wed, 26 Aug 2020 06:45:38 +0000",
+    "date_sent": null,
+    "account_sid": "AC1a9702e6a727505d070433a6d7ae7dee",
+    "to": "+886928413007",
+    "from": "+12058803069",
+    "messaging_service_sid": null,
+    "body": "Sent from your Twilio trial account - 陈冠纶同学您好，恭喜您录取2020浙江大学计算机科学系，有关相关事宜，请联络港澳台招生网！",
+    "status": "queued",
+    "num_segments": "2",
+    "num_media": "0",
+    "direction": "outbound-api",
+    "api_version": "2010-04-01",
+    "price": null,
+    "price_unit": "USD",
+    "error_code": null,
+    "error_message": null,
+    "uri": "/2010-04-01/Accounts/AC1a9702e6a727505d070433a6d7ae7dee/Messages/SMe62aaa7d0d224c70aa2855d7bc8ec6a1.json",
+    "subresource_uris": {
+        "media": "/2010-04-01/Accounts/AC1a9702e6a727505d070433a6d7ae7dee/Messages/SMe62aaa7d0d224c70aa2855d7bc8ec6a1/Media.json"
+    }
+}
